@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails"      , '> 3.2.18'
-  s.add_dependency "carrierwave", '~> 0.10.0'
+  s.add_dependency "carrierwave", '~> 2.0.0'
 
 end
